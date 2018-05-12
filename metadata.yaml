@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9433
     wikipedia: http://en.wikipedia.org/wiki/Mary_Antin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20885#The-Promised-Land
 gutenberg_bookshelf:
 - Judaism
 - Bestsellers, American, 1895-1923
